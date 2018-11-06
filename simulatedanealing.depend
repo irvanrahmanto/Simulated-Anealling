@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537707349 source:d:\materi kuliah\semester 5\artificial intelligence\tugas\simulated anealling\simulatedanealing\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
